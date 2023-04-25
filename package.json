@@ -40,6 +40,6 @@
     "nyc": "^15.1.0",
     "remark": "https://github.com/gnab/remark.git#v0.14.0",
     "rimraf": "^2.6.1",
-    "standard": "^10.0.2"
+    "standard": "^17.0.0"
   }
 }
